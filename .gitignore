@@ -1,0 +1,5 @@
+*.o
+
+# Final output
+#
+myFullApp
